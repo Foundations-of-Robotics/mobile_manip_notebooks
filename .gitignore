@@ -1,0 +1,10 @@
+.bash*
+.cache/
+.ipynb_checkpoints/
+.ipython/
+.jupyter/
+.local/
+.profile
+output.bag
+.python_history
+MEC745/project3/lab_utils/__pycache__/*
