@@ -1,0 +1,11 @@
+jupyterlab
+matplotlib
+numpy
+ipywidgets
+voila
+scipy
+jupyros
+requests
+fuzzywuzzy
+nbgrader
+rise
